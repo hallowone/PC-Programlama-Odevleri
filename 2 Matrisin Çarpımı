@@ -1,0 +1,14 @@
+A1. Başla
+A2. i=1
+A3. j=1
+A4. k=1
+A5. A(i,k)xB(k,j)
+A6. Eğer k=m ise A11'e git
+A7. k=k+1 al ve A5'e git
+A8. Topla=a5'te okunan değerlerin toplamı
+A9. Eğer j=p ise A6'ya git
+A10. j=j+1 al ve A4'e git
+A11. eğer i=n ise A13'e git
+A12. i=i+1 al ve A'3e git
+A13. c(i,j)=Topla
+A14. Dur
